@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.pwoodworth.metricexplorer.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pwoodworth.metricexplorer.MyBundle
 
 class MyApplicationService {
 
